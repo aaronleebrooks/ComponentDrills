@@ -1,0 +1,19 @@
+h1 {
+    margin: 0;
+}
+
+.navBar {
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+.navBar h1, .navBar nav, .navBar li {
+    display: inline-block;
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+.navBar li {
+    margin-right: 10px;
+    text-decoration: none;
+}
